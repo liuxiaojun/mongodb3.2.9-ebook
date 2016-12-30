@@ -5,7 +5,6 @@
   * [1.2 MongoDB 安装](<01.2.md>)
   * [2.1 基本概念](<02.1.md>)
   * [3.1 Capped Collections介绍](<03.1.md>)
-  * [3.2 Capped Collections生产环境之疲劳度过滤,日志应用](<03.2.md>)
   * [4.1 Bson结构解析](<04.1.md>)
   * [4.2 _id原理详细分析](<04.2.md>)
   * [5.1 mongodb shell使用loadjs与mongodb高速交互分析](<05.1.md>)
