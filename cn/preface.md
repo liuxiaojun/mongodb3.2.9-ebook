@@ -10,7 +10,7 @@
   * [4.2 _id原理详细分析](<04.2.md>)
   * [5.1 mongodb shell使用loadjs与mongodb高速交互分析](<05.1.md>)
   * [6.1 高频咨询之sql statement 和mongodb statement对照分析和记忆](<06.1.md>)
-  * [7.1 m比较运算符详解($eq,$gt,$lt,$ne,$in,$nin)](<07.1.md>)
+  * [7.1 比较运算符详解($eq,$gt,$lt,$ne,$in,$nin)](<07.1.md>)
   * [8.1 逻辑和运算运算符详解($or,$and,$not,$nor,$exists,$type)](<08.1.md>)
   * [9.1 评估运算符($mod,$regex,$text,$where,$all,$elemMatch,$size)](<09.1.md>)
   * [10.1 update运算符分析一($inc,$mul,$rename,$setOnInsert)](<10.1.md>)
