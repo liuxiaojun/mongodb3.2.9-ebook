@@ -13,7 +13,6 @@
   * [8.1 逻辑和运算运算符详解($or,$and,$not,$nor,$exists,$type)](<08.1.md>)
   * [9.1 评估运算符($mod,$regex,$text,$where,$all,$elemMatch,$size)](<09.1.md>)
   * [10.1 update运算符分析一($inc,$mul,$rename,$setOnInsert)](<10.1.md>)
-  * [10.2 update运算符分析二($set,$unset,$min,$max,$currentDate)](<10.2.md>)
   * [11.1 数组操作运算符分析($,$addToSet,$pop,$pull,$pullAll,$pushAll,$push)](<11.1.md>)
   * [11.2 数组操作运算符和位运算分析($each,$slice,$sort,$position,$bit)](<11.2.md>)
   * [12.1 CURD众方法详解之Insert,Find[One,Many,Replace]分析](<12.1.md>)
