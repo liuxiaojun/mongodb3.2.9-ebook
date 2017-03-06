@@ -31,8 +31,8 @@
   * [20.2 分布式部署之mongodb Sharding分片终极之海量数据部署](<20.2.md>)
   * [21.1 实时监控工具mongostat,mongotop,HttpConsole](<21.1.md>)
   * [22.1 python开发与实战](<22.1.md>)
-  * [22.2 java开发与实战](<22.1.md>)
-  * [22.3 go开发与实战](<22.1.md>)
+  * [22.2 java开发与实战](<22.2.md>)
+  * [22.3 go开发与实战](<22.3.md>)
 
 
 ## links
